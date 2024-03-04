@@ -40,3 +40,21 @@ header img {
     opacity: 1;
     border-radius: 20px;
 }
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: #2a4e0b;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.text {
+    padding-left: 2em;
+    padding-right: 2em;
+}
